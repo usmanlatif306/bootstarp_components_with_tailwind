@@ -9,7 +9,7 @@ Alerts <br />
 Badges <br />
 Button <br />
 Card <br />
-Form Components <br />
+Forms <br />
 
 # Working
 
